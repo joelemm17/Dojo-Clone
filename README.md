@@ -1,6 +1,6 @@
 ![Contributors](https://img.shields.io/badge/Contributors-3-red)
 
-> **[Joe LeMay](https://github.com/joelemm17)[Jennifer Ehala](https://github.com/jenniferehala), [Diana Krawczyk](https://github.com/Dianka759), [Violet Szewczyk](https://github.com/VioletMaria)**
+> **[Joe LeMay](https://github.com/joelemm17), [Jennifer Ehala](https://github.com/jenniferehala), [Diana Krawczyk](https://github.com/Dianka759), [Violet Szewczyk](https://github.com/VioletMaria)**
 
 ##
 
@@ -11,7 +11,7 @@
   <h3 align="center">The Coding Dojo Clone</h3>
 
   <p align="center">
-    A group project of three graduates of the Coding Dojo Bootcamp.
+    A group project of four graduates of the Coding Dojo Bootcamp.
     <br />
     <br />
     (SOON TO COME:
